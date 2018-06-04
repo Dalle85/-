@@ -1,2 +1,2 @@
 gem "github-pages", group: :jekyll_plugins
-bundle update
+remote_theme: "mmistakes/minimal-mistakes"
