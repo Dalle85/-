@@ -3,3 +3,4 @@ theme: minimal-mistakes-jekyll
 remote_theme: "mmistakes/minimal-mistakes"
 
 name: "Victor"
+description: "These are the scripts you're looking for."
